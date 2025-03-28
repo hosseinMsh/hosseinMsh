@@ -32,7 +32,7 @@ I enjoy working with a variety of technologies, including:
 
 - **Languages**: JavaScript, Python, C++
 - **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, VS Code
+- **Tools**: Git, Docker, Pycharm, WebStorm
 
 ## 📈 Visitor Counter
 

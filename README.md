@@ -56,7 +56,7 @@ I welcome contributions! If you'd like to contribute to any of my projects, plea
 
 Feel free to reach out to me:
 
-- **Email**: [your-email@example.com]
+- **Email**: [hossein.masihi@gmail.com]
 - **Twitter**: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
 

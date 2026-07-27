@@ -89,6 +89,7 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
+<!-- Show latest GitHub activity (push, issues, PRs, stars, etc.) -->
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->

@@ -4,7 +4,7 @@ on:
   # Runs when you first push the repo — instantly personalizes it to your username
   push:
     branches: [main, master]
-    paths: [README.md]
+    paths: [README.md, .github/recent-activity.config.yml]
   # Refreshes dynamic data every 6 hours
   schedule:
     - cron: "0 */6 * * *"
@@ -48,13 +48,11 @@ jobs:
           fi
 
       # Injects your latest public GitHub activity between the
-      # START_SECTION:activity / END_SECTION:activity markers
+      # RECENT_ACTIVITY:start / RECENT_ACTIVITY:end markers
       - name: Update recent activity section
-        uses: jamesgeorge007/github-activity-readme@master
+        uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: ${{ github.repository_owner }}
-          COMMIT_MSG: "chore: update recent activity"
-          MAX_LINES: 8
-          EMPTY_COMMIT_MSG: "chore: no new activity"
+          GH_USERNAME: ${{ github.repository_owner }}
+          CONFIG_FILE: ./.github/recent-activity.config.yml

@@ -34,7 +34,7 @@
 <!-- Quick stats badges -->
 <img src="https://komarev.com/ghpvc/?username=hosseinMsh&style=flat-square&color=blue&label=Profile+Views" alt="Profile views" />
 <a href="https://github.com/hosseinMsh?tab=followers"><img src="https://img.shields.io/github/followers/hosseinMsh?style=flat-square&color=blue&label=Followers" alt="Followers" /></a>
-<a href="https://github.com/hosseinMsh?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&color=blue&label=Public+Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FhosseinMsh" alt="Public repos" /></a>
+<a href="https://github.com/hosseinMsh?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/hosseinMsh&query=public_repos&label=Public%20Repos&color=blue&style=flat-square" alt="Public repos" /></a>
 
 </div>
 
@@ -88,9 +88,11 @@
 
 ## Recent Activity
 
-<!--START_SECTION:activity-->
-<!-- This section is auto-updated by the "Personalize & Update README" GitHub Action -->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ## Contribution Snake
 

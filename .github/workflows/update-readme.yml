@@ -49,7 +49,10 @@ jobs:
 
       # Injects your latest public GitHub activity between the
       # RECENT_ACTIVITY:start / RECENT_ACTIVITY:end markers
+      # Runs on schedule and manual triggers only (not on push,
+      # because the action validates event names case-sensitively)
       - name: Update recent activity section
+        if: github.event_name != 'push'
         uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -5,7 +5,7 @@ import { ReadmePreview } from "@/components/readme-preview"
 export default async function Page() {
   let markdown = ""
   try {
-    markdown = await fs.readFile(path.join(process.cwd(), "PROFILE_README.md"), "utf-8")
+    markdown = await fs.readFile(path.join(process.cwd(), "README.md"), "utf-8")
   } catch {
     markdown = "*Profile README not found.*"
   }

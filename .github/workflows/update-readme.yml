@@ -30,6 +30,7 @@ jobs:
         run: |
           if [ "$OWNER" != "hosseinMsh" ]; then
             sed -i "s/hosseinMsh/${OWNER}/g" README.md
+            sed -i "s/hosseinMsh/${OWNER}/g" PROFILE_README.md
             echo "Personalized README for ${OWNER}"
           else
             echo "README already personalized"
@@ -41,6 +42,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if ! git diff --quiet README.md; then
             git add README.md
+            git add PROFILE_README.md
             git commit -m "chore: personalize README for ${{ github.repository_owner }}"
             git push
           fi

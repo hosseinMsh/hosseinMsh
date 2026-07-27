@@ -34,7 +34,7 @@
 <!-- Quick stats badges -->
 <img src="https://komarev.com/ghpvc/?username=hosseinMsh&style=flat-square&color=blue&label=Profile+Views" alt="Profile views" />
 <a href="https://github.com/hosseinMsh?tab=followers"><img src="https://img.shields.io/github/followers/hosseinMsh?style=flat-square&color=blue&label=Followers" alt="Followers" /></a>
-<a href="https://github.com/hosseinMsh?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/hosseinMsh&query=public_repos&label=Public%20Repos&color=blue&style=flat-square" alt="Public repos" /></a>
+<a href="https://github.com/hosseinMsh?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FhosseinMsh&query=public_repos&style=flat-square&label=Public%20Repos&color=blue" alt="Public repos" /></a>
 
 </div>
 

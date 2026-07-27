@@ -1,0 +1,58 @@
+name: Personalize & Update README
+
+on:
+  # Runs when you first push the repo — instantly personalizes it to your username
+  push:
+    branches: [main, master]
+    paths: [README.md]
+  # Refreshes dynamic data every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+  # Allows manual runs from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Auto-detect the repo owner and replace the placeholder username
+      # everywhere in the README. This makes the template universal:
+      # anyone who copies this repo gets a README personalized to them.
+      - name: Personalize README to repository owner
+        env:
+          OWNER: ${{ github.repository_owner }}
+        run: |
+          if [ "$OWNER" != "hosseinMsh" ]; then
+            sed -i "s/hosseinMsh/${OWNER}/g" README.md
+            echo "Personalized README for ${OWNER}"
+          else
+            echo "README already personalized"
+          fi
+
+      - name: Commit personalization (if changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet README.md; then
+            git add README.md
+            git commit -m "chore: personalize README for ${{ github.repository_owner }}"
+            git push
+          fi
+
+      # Injects your latest public GitHub activity between the
+      # START_SECTION:activity / END_SECTION:activity markers
+      - name: Update recent activity section
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          COMMIT_MSG: "chore: update recent activity"
+          MAX_LINES: 8
+          EMPTY_COMMIT_MSG: "chore: no new activity"

@@ -66,6 +66,14 @@
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hosseinMsh/hosseinMsh/main/profile.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hosseinMsh/hosseinMsh/main/profile.svg" />
+  <img alt="Terminal profile" src="https://raw.githubusercontent.com/hosseinMsh/hosseinMsh/main/profile.svg" />
+</picture>
+
+<br /><br />
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hosseinMsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" />
   <img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=hosseinMsh&show_icons=true&theme=default&hide_border=true&bg_color=00000000&count_private=true" />
 </picture>

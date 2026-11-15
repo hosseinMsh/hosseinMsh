@@ -97,15 +97,15 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 15th, 2026, 4:41:26 AM
+Last Updated: Sunday, November 15th, 2026, 1:24:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [hosseinMsh/FoodBot](https://github.com/hosseinMsh/FoodBot)<br>
-2. ⬆️ Pushed undefined commit(s) to [sahrif-mp-ir/14051-HW2](https://github.com/sahrif-mp-ir/14051-HW2)<br>
-3. ⬆️ Pushed undefined commit(s) to [sahrif-mp-ir/14051-HW2](https://github.com/sahrif-mp-ir/14051-HW2)<br>
-4. ❗️ Opened issue [#1368](https://github.com/storytold/craft-launcher/issues/1368) in [storytold/craft-launcher](https://github.com/storytold/craft-launcher)<br>
-5. ⬆️ Pushed undefined commit(s) to [IR-Flutter/PackageDownloader](https://github.com/IR-Flutter/PackageDownloader)<br>
+1. ⬆️ Pushed undefined commit(s) to [hosseinMsh/IranNationalAirportFIDR](https://github.com/hosseinMsh/IranNationalAirportFIDR)<br>
+2. ✌️ Released [Release v1.1.0](https://github.com/hosseinMsh/IranNationalAirportFIDR/releases/tag/v1.1.0) in [hosseinMsh/IranNationalAirportFIDR](https://github.com/hosseinMsh/IranNationalAirportFIDR)<br>
+3. ⬆️ Pushed undefined commit(s) to [hosseinMsh/FoodBot](https://github.com/hosseinMsh/FoodBot)<br>
+4. ⬆️ Pushed undefined commit(s) to [sahrif-mp-ir/14051-HW2](https://github.com/sahrif-mp-ir/14051-HW2)<br>
+5. ⬆️ Pushed undefined commit(s) to [sahrif-mp-ir/14051-HW2](https://github.com/sahrif-mp-ir/14051-HW2)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Contribution Snake

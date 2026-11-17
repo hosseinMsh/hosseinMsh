@@ -2,9 +2,9 @@
 
 <!-- Header Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,100:414868&text=Hossein%20Masihi%20👋&fontColor=c0caf5&fontSize=40&fontAlignY=35&desc=Computer%20Science%20@%20Sharif%20University%20of%20Technology&descAlignY=55&descSize=16&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:e0f2fe,100:bae6fd&text=Hossein%20Masihi%20👋&fontColor=1e293b&fontSize=40&fontAlignY=35&desc=Computer%20Science%20@%20Sharif%20University%20of%20Technology&descAlignY=55&descSize=16&animation=fadeIn" />
-  <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,100:414868&text=Hossein%20Masihi%20👋&fontColor=c0caf5&fontSize=40&fontAlignY=35&desc=Computer%20Science%20@%20Sharif%20University%20of%20Technology&descAlignY=55&descSize=16&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,100:414868&text=Hossein%20Masihi&fontColor=c0caf5&fontSize=40&fontAlignY=35&desc=Computer%20Engineering%20@%20Sharif%20University%20of%20Technology&descAlignY=55&descSize=16&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:e0f2fe,100:bae6fd&text=Hossein%20Masihi&fontColor=1e293b&fontSize=40&fontAlignY=35&desc=Computer%20Engineering%20@%20Sharif%20University%20of%20Technology&descAlignY=55&descSize=16&animation=fadeIn" />
+  <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,100:414868&text=Hossein%20Masihi&fontColor=c0caf5&fontSize=40&fontAlignY=35&desc=Computer%20Engineering%20@%20Sharif%20University%20of%20Technology&descAlignY=55&descSize=16&animation=fadeIn" />
 </picture>
 
 <!-- Animated Typing Text -->
@@ -24,28 +24,28 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 Computer Engineering Student at **Sharif University of Technology**
-- 📱 **Mobile Application Developer** specializing in **Flutter & Dart** (Cross-Platform iOS & Android)
-- 🦀 **Systems & Backend Engineer** focused on **Rust**, **Python (FastAPI, Django)**, and **TypeScript**
-- 🤖 Building cutting-edge **AI-driven platforms** using **FastMCP** (Model Context Protocol) & LLMs
-- 🌐 Experienced in **Network Engineering**, security automation, and distributed systems
+- Computer Engineering Student at **Sharif University of Technology**
+- Mobile Application Developer specializing in **Flutter & Dart** (Cross-Platform iOS & Android)
+- Systems & Backend Engineer focused on **Rust**, **Python (FastAPI, Django)**, and **TypeScript**
+- Building AI-driven platforms using **FastMCP** (Model Context Protocol) and LLM agent architectures
+- Experienced in Network Engineering, security automation, and distributed systems
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <div align="center">
 
-### 📱 Mobile & Front-End Development
+### Mobile & Front-End Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Systems & Back-End Engineering
+### Systems & Back-End Engineering
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -53,7 +53,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🗄️ Database, Cloud & DevOps
+### Database, Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -64,21 +64,21 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Domain | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| 🦀 **[AiServerTools](https://github.com/hosseinMsh/AiServerTools)** | Systems / AI | Modular Rust workspace for AI server management, SSH/Docker engines & Tauri | `Rust` `Tauri` `Docker` `Tokio` |
-| 🤖 **[Assistant-Platform](https://github.com/hosseinMsh/Assistant-Platform)** | AI / Full-Stack | Full-stack AI assistant architecture with FastMCP, Redis & Next.js RTL UI | `Python` `FastAPI` `MCP` `Next.js` |
-| 📱 **[IranNationalAirportFIDR](https://github.com/hosseinMsh/IranNationalAirportFIDR)** | Mobile App | Real-time national flight information display application for Iranian airports | `Dart` `Flutter` `Mobile` |
-| 📱 **[jabinja.ir](https://github.com/hosseinMsh/jabinja.ir)** | Mobile App | Mobile client for job-search and career opportunities on Jabinja | `Dart` `Flutter` `REST API` |
-| ⚡ **[FoodBot](https://github.com/hosseinMsh/FoodBot)** | Automation | Automated food reservation & credit management bot for Sharif Samad portal | `TypeScript` `Telegram` `Bale` |
-| 🌐 **[Pinghub](https://github.com/hosseinMsh/Pinghub)** | DevOps / CLI | High-performance CLI network monitoring tool for real-time IP availability tracking | `Shell` `Networking` `CLI` |
-| 🛒 **[achare](https://github.com/hosseinMsh/achare)** | Backend | On-demand service marketplace backend with JWT auth, role workflows & tickets | `Django` `DRF` `PostgreSQL` |
+| **[AiServerTools](https://github.com/hosseinMsh/AiServerTools)** | Systems / AI | Modular Rust workspace for AI server management, SSH/Docker engines & Tauri | `Rust` `Tauri` `Docker` `Tokio` |
+| **[Assistant-Platform](https://github.com/hosseinMsh/Assistant-Platform)** | AI / Full-Stack | Full-stack AI assistant architecture with FastMCP, Redis & Next.js RTL UI | `Python` `FastAPI` `MCP` `Next.js` |
+| **[IranNationalAirportFIDR](https://github.com/hosseinMsh/IranNationalAirportFIDR)** | Mobile App | Real-time national flight information display application for Iranian airports | `Dart` `Flutter` `Mobile` |
+| **[jabinja.ir](https://github.com/hosseinMsh/jabinja.ir)** | Mobile App | Mobile client for job-search and career opportunities on Jabinja | `Dart` `Flutter` `REST API` |
+| **[FoodBot](https://github.com/hosseinMsh/FoodBot)** | Automation | Automated food reservation & credit management bot for Sharif Samad portal | `TypeScript` `Telegram` `Bale` |
+| **[Pinghub](https://github.com/hosseinMsh/Pinghub)** | DevOps / CLI | High-performance CLI network monitoring tool for real-time IP availability tracking | `Shell` `Networking` `CLI` |
+| **[achare](https://github.com/hosseinMsh/achare)** | Backend | On-demand service marketplace backend with JWT auth, role workflows & tickets | `Django` `DRF` `PostgreSQL` |
 
 ---
 
-## 📊 Activity & Stats
+## Activity & Stats
 
 <div align="center">
 
@@ -113,20 +113,20 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Graph
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hosseinMsh/hosseinMsh/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/hosseinMsh/hosseinMsh/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution activity animation" src="https://raw.githubusercontent.com/hosseinMsh/hosseinMsh/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
-## 📬 Contact
+## Contact
 
 <div align="center">
 

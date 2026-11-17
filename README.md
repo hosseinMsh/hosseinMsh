@@ -82,14 +82,15 @@
 
 <div align="center">
 
-<!-- Fast Reliable Stats Card -->
+<!-- Profile Summary & Statistics Cards -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=hosseinMsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" />
-  <img alt="GitHub stats" height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hosseinMsh&show_icons=true&theme=default&hide_border=true&bg_color=00000000&count_private=true" />
+  <img alt="Hossein GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hosseinMsh&theme=tokyonight" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hosseinMsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img alt="Top languages" height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hosseinMsh&layout=compact&theme=default&hide_border=true&bg_color=00000000" />
+  <img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hosseinMsh&theme=tokyonight" />
+</picture>
+<picture>
+  <img alt="Repos per Language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hosseinMsh&theme=tokyonight" />
 </picture>
 
 <br /><br />

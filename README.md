@@ -1,33 +1,17 @@
-<!--
-  ─────────────────────────────────────────────────────────────
-  Universal GitHub Profile README
-  ─────────────────────────────────────────────────────────────
-  How to use:
-  1. Create a repo named exactly the same as your GitHub username.
-  2. Copy this file into it as README.md, along with the
-     .github/workflows folder.
-  3. Push. The "Personalize & Update README" action automatically
-     replaces "hosseinMsh" everywhere with YOUR username — no manual
-     editing needed.
-  ─────────────────────────────────────────────────────────────
--->
-
 <div align="center">
 
-<!-- Adaptive banner: switches with the visitor's dark / light mode -->
+<!-- Adaptive banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1b27,100:414868&text=Hey,%20I'm%20hosseinMsh&fontColor=c0caf5&fontSize=42&fontAlignY=35&desc=Welcome%20to%20my%20corner%20of%20GitHub&descAlignY=55&descSize=16&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:e0f2fe,100:bae6fd&text=Hey,%20I'm%20hosseinMsh&fontColor=1e293b&fontSize=42&fontAlignY=35&desc=Welcome%20to%20my%20corner%20of%20GitHub&descAlignY=55&descSize=16&animation=fadeIn" />
-  <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1b27,100:414868&text=Hey,%20I'm%20hosseinMsh&fontColor=c0caf5&fontSize=42&fontAlignY=35&desc=Welcome%20to%20my%20corner%20of%20GitHub&descAlignY=55&descSize=16&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:1a1b27,100:414868&text=Hey,%20I'm%20Hossein%20Masihi%20👋&fontColor=c0caf5&fontSize=38&fontAlignY=35&desc=Computer%20Science%20@%20Sharif%20University%20of%20Technology&descAlignY=55&descSize=16&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:e0f2fe,100:bae6fd&text=Hey,%20I'm%20Hossein%20Masihi%20👋&fontColor=1e293b&fontSize=38&fontAlignY=35&desc=Computer%20Science%20@%20Sharif%20University%20of%20Technology&descAlignY=55&descSize=16&animation=fadeIn" />
+  <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:1a1b27,100:414868&text=Hey,%20I'm%20Hossein%20Masihi%20👋&fontColor=c0caf5&fontSize=38&fontAlignY=35&desc=Computer%20Science%20@%20Sharif%20University%20of%20Technology&descAlignY=55&descSize=16&animation=fadeIn" />
 </picture>
 
 <!-- Animated typing intro -->
-<a href="https://github.com/hosseinMsh">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=Developer+%7C+Builder+%7C+Lifelong+Learner;Turning+ideas+into+code;Open+source+enthusiast" />
-    <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=520&lines=Developer+%7C+Builder+%7C+Lifelong+Learner;Turning+ideas+into+code;Open+source+enthusiast" />
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=550&lines=Systems+Programming+%26+Rust+Enthusiast;AI+Platforms+%26+FastMCP+Integration;Building+Robust+Network+Tools+%26+Bots;CS+Student+@+Sharif+University" />
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=550&lines=Systems+Programming+%26+Rust+Enthusiast;AI+Platforms+%26+FastMCP+Integration;Building+Robust+Network+Tools+%26+Bots;CS+Student+@+Sharif+University" />
+</picture>
 
 <br />
 
@@ -38,48 +22,64 @@
 
 </div>
 
-## About Me
+## 🧑‍💻 About Me
 
-- Building things I wish existed
-- Currently exploring new technologies and open source
-- Ask me about anything — I love sharing what I learn
-- Reach me through any of the links below
+- 🎓 Computer Science Student at **Sharif University of Technology**
+- 🦀 Passionate about **Systems Programming (Rust)**, **Network Engineering**, and **Distributed Architecture**
+- 🤖 Building modern **AI-driven platforms** with **FastMCP** and **LLM agent pipelines**
+- 🛠️ Creator of automation tools, university utilities, and network monitoring solutions
 
-## Tech Stack
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### Languages & Frameworks
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Shell](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-## GitHub Stats
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🦀 **[AiServerTools](https://github.com/hosseinMsh/AiServerTools)** | High-performance modular platform for AI server management, SSH/Docker engines, and Tauri integration | `Rust` `Tauri` `Docker` `Tokio` |
+| 🤖 **[Assistant-Platform](https://github.com/hosseinMsh/Assistant-Platform)** | Full-stack AI assistant architecture featuring FastMCP integration, Redis, and Next.js RTL dashboard | `Python` `FastAPI` `MCP` `Next.js` |
+| ⚡ **[FoodBot](https://github.com/hosseinMsh/FoodBot)** | Production automated food reservation bot for Sharif University's Samad portal | `TypeScript` `Telegram` `Automation` |
+| 🌐 **[Pinghub](https://github.com/hosseinMsh/Pinghub)** | Powerful CLI network monitoring tool for real-time IP availability tracking | `Shell` `Networking` `CLI` |
+| 🛒 **[achare](https://github.com/hosseinMsh/achare)** | Scalable on-demand service marketplace backend with JWT auth, role workflows, and ticketing | `Django` `DRF` `PostgreSQL` |
+| 📱 **[IranNationalAirportFIDR](https://github.com/hosseinMsh/IranNationalAirportFIDR)** | Cross-platform flight information display application for Iranian airports | `Dart` `Flutter` |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hosseinMsh/hosseinMsh/main/profile.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hosseinMsh/hosseinMsh/main/profile.svg" />
-  <img alt="Terminal profile" src="https://raw.githubusercontent.com/hosseinMsh/hosseinMsh/main/profile.svg" />
-</picture>
-
-<br /><br />
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hosseinMsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" />
-  <img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=hosseinMsh&show_icons=true&theme=default&hide_border=true&bg_color=00000000&count_private=true" />
+  <img alt="GitHub stats" height="175" src="https://github-readme-stats.vercel.app/api?username=hosseinMsh&show_icons=true&theme=default&hide_border=true&bg_color=00000000&count_private=true" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinMsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img alt="Top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinMsh&layout=compact&theme=default&hide_border=true&bg_color=00000000" />
+  <img alt="Top languages" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinMsh&layout=compact&theme=default&hide_border=true&bg_color=00000000" />
 </picture>
 
 <picture>
@@ -94,21 +94,9 @@
 
 </div>
 
-## Recent Activity
+---
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 17th, 2026, 1:31:20 AM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [hosseinMsh/FoodBot](https://github.com/hosseinMsh/FoodBot)<br>
-2. ⬆️ Pushed undefined commit(s) to [hosseinMsh/IranNationalAirportFIDR](https://github.com/hosseinMsh/IranNationalAirportFIDR)<br>
-3. ⬆️ Pushed undefined commit(s) to [hosseinMsh/IranNationalAirportFIDR](https://github.com/hosseinMsh/IranNationalAirportFIDR)<br>
-4. ✌️ Released [Release v1.1.0](https://github.com/hosseinMsh/IranNationalAirportFIDR/releases/tag/v1.1.0) in [hosseinMsh/IranNationalAirportFIDR](https://github.com/hosseinMsh/IranNationalAirportFIDR)<br>
-5. ⬆️ Pushed undefined commit(s) to [hosseinMsh/FoodBot](https://github.com/hosseinMsh/FoodBot)<br>
-<!--RECENT_ACTIVITY:end-->
-
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -119,14 +107,14 @@ Last Updated: Tuesday, November 17th, 2026, 1:31:20 AM
 
 </div>
 
-## Connect With Me
+---
+
+## 📬 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/hosseinMsh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/hosseinMsh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/hosseinMsh"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="mailto:hossein@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:hossein.masihi@gmail.com"><img src="https://img.shields.io/badge/Gmail-hossein.masihi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="mailto:hossein.msh44@sharif.edu"><img src="https://img.shields.io/badge/Sharif_Email-hossein.msh44@sharif.edu-004080?style=for-the-badge&logo=maildotru&logoColor=white" alt="Sharif Email" /></a>
 
 </div>
 
@@ -137,7 +125,5 @@ Last Updated: Tuesday, November 17th, 2026, 1:31:20 AM
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:bae6fd,100:e0f2fe" />
   <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:414868,100:1a1b27" />
 </picture>
-
-<sub>This README updates itself automatically via GitHub Actions — fork it, and it becomes yours.</sub>
 
 </div>

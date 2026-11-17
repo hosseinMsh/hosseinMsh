@@ -26,7 +26,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science Student at **Sharif University of Technology**
+- 🎓 Computer Engineering Student at **Sharif University of Technology**
 - 📱 **Mobile Application Developer** specializing in **Flutter & Dart** (Cross-Platform iOS & Android)
 - 🦀 **Systems & Backend Engineer** focused on **Rust**, **Python (FastAPI, Django)**, and **TypeScript**
 - 🤖 Building cutting-edge **AI-driven platforms** using **FastMCP** (Model Context Protocol) & LLMs
